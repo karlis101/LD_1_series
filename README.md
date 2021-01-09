@@ -1,2 +1,2 @@
-# LD_1_series
+# LD
 1 labartorijas darbs
